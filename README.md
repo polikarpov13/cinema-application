@@ -19,7 +19,7 @@ depending on the role.
 - Create a new project from Version Control
 - Paste the SSH key of this project, choose the directory and press Clone
 - Install Tomcat if you do not have it
-- In class ConnectionUtil(src/main/java/taxi/util) replace stubs with real data
+- In class ConnectionUtil(src/main/java/cinema/util) replace stubs with real data
 - If you need add Run Configuration(Tomcat, Local Server)
 - Then run the project and enjoy using it
 - ## Technologies:
