@@ -24,6 +24,8 @@ depending on the role.
 - Then run the project and enjoy using it
 - ## Technologies:
 - Java Core
+- Java 8
 - Spring
 - Hibernate
+- Tomcat 9
 - SQL, MySQL
