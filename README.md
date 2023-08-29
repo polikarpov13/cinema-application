@@ -1,4 +1,4 @@
-# Taxi-Service
+# Cinema-App
 ## Project description:
 A simple web application that supports authentication, registration and other CRUD operations.
 Includes all the functionalities of the cinema, such as buying a ticket for a certain movie, checking session 
